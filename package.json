@@ -33,5 +33,8 @@
     "url": "git://github.com/tjmonsi/project_live_platform.git"
   },
   "author": "tjmonsi",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
 }
